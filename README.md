@@ -1,6 +1,6 @@
 ## Olá! Eu sou a Franklane Lima 👋🏼
 
-- Estudante de Engenharia da Computação - Universidade Federal do Ceará
+- Técnica em informática
   
 [![Blog](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCWyuuc8NjYH343F_zqsmkXQ)
 [![Blog](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/franklane-lima-443072235/)
